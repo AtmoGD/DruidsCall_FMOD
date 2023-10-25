@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4a1df3b4-00af-49f8-a4e6-cf3bdcfc8ddd}">
+		<property name="assetPath">
+			<value>Footsteps, Human, Forest, Leaves, Running, Scuff SND11533.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>10.540479166666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9e97e573-363d-421b-8703-5732aa0952f9}</destination>
+		</relationship>
+	</object>
+</objects>
