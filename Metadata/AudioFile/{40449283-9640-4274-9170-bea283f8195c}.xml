@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{40449283-9640-4274-9170-bea283f8195c}">
+		<property name="assetPath">
+			<value>WHSH_Magical Chimes Whoosh 01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.7725</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9e97e573-363d-421b-8703-5732aa0952f9}</destination>
+		</relationship>
+	</object>
+</objects>

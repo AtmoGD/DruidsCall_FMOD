@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ecac5de9-3f7b-4f53-a22a-7e0d70ae9cf8}">
+		<property name="assetPath">
+			<value>Georgie_Interaktion_Scare-003.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.22637499999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9e97e573-363d-421b-8703-5732aa0952f9}</destination>
+		</relationship>
+	</object>
+</objects>
