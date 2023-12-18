@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{3aec3dbb-588c-4652-a69d-fbcdf804e776}">
 		<property name="builtBanksOutputDirectory">
-			<value>../DruidsCall/DruidsCall_TalesOfTheForgotten/Assets/FMODBanks</value>
+			<value>../DruidsCall_TalesOfTheForgotten/Assets/FMODBanks</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{5844af38-2308-4eec-a9ca-b871c8f2a558}</destination>
